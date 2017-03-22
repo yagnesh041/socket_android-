@@ -1,2 +1,3 @@
-# socket_android-
-conncet to server 
+# socket
+
+Scoket programming demo 
